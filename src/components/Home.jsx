@@ -39,7 +39,7 @@ const Main = () => {
             <span className="text-red-500 font-black">Ysreimer Ortiz</span>
           </h1>
         </div>
-        <p className="text-gray-300 mx-2 ">
+        <p className="text-gray-300 mx-2 sm:w-[600px] ">
         ¡Hola! Soy Ysreimer Ortiz, un desarrollador web frontend especializado en ReactJS. Mi pasión es crear interfaces de usuario dinámicas y eficientes utilizando esta poderosa biblioteca. Si buscas un experto en ReactJS para llevar tus proyectos al siguiente nivel, ¡estoy aquí para ayudarte!
         </p>
 

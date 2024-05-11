@@ -40,9 +40,7 @@ const Main = () => {
           </h1>
         </div>
         <p className="text-gray-300 mx-2 ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          amet dolorem natus iure facilis a, veniam nam saepe quod cum numquam,
-          incidunt illum iste mollitia vel, quas culpa. Quibusdam, eaque.
+        ¡Hola! Soy Ysreimer Ortiz, un desarrollador web frontend especializado en ReactJS. Mi pasión es crear interfaces de usuario dinámicas y eficientes utilizando esta poderosa biblioteca. Si buscas un experto en ReactJS para llevar tus proyectos al siguiente nivel, ¡estoy aquí para ayudarte!
         </p>
 
         <div className="flex sm:space-x-10 justify-center sm:justify-start">
